@@ -511,7 +511,8 @@ p {
 
 /* Footer */
 #footer {
-	background: linear-gradient(60deg,#FFC18E,#7A4069,#513252);
+	background: linear-gradient(60deg,#538234, #c4d7b9,#7A4069,#513252);
+	/*background: linear-gradient(60deg,#FFC18E,#7A4069,#513252);*/
 	animation: gradient 15s ease infinite; 
 }
 #footer .footer {
