@@ -82,7 +82,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: #513252;
+	background-color: #6d385d;
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -97,7 +97,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: #513252;
+	background-color: #6d385d;
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -129,7 +129,7 @@ p {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%) scale(0);
-	color: #513252;
+	color: #6d385d;
 	font-size: 13rem;
 	letter-spacing: 50px;
 	z-index: -1;
@@ -213,7 +213,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: #513252;
+	background-color: #6d385d;
 	z-index: -1;
 }
 #hero .hero {
@@ -303,7 +303,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(60deg, #513252 0%, #7A4069 100%);
+	background-image: linear-gradient(60deg, #6d385d 0%, #98649a 100%);
 	opacity: 0.9;
 	z-index: -1;
 }
@@ -353,7 +353,7 @@ p {
 	align-items: flex-start;
 	justify-content: center;
 	flex-direction: column;
-	background-image: linear-gradient(60deg, #513252 0%, #7A4069 100%);
+	background-image: linear-gradient(60deg, #6d385d 0%, #98649a 100%);
 	color: white;
 }
 #projects .project-info span {
@@ -386,7 +386,7 @@ p {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-image: linear-gradient(60deg, #513252 0%, #7A4069 100%);
+	background-image: linear-gradient(60deg, #6d385d 0%, #98649a 100%);
 	opacity: 0.7;
 }
 #projects .project-img img {
@@ -422,7 +422,7 @@ p {
 	margin-bottom: 20px;
 }
 #about .col-right .cta {
-	color: #513252;
+	color: #6d385d;
 	margin-bottom: 50px;
 	padding: 10px 20px;
 	font-size: 2rem;
@@ -466,11 +466,11 @@ p {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	box-shadow: 0px 0px 18px 0 #513252;
+	box-shadow: 0px 0px 18px 0 #6d385d;
 	transition: 0.3s ease box-shadow;
 }
 #contact .contact-item:hover {
-	box-shadow: 0px 0px 5px 0 #513252;
+	box-shadow: 0px 0px 5px 0 #6d385d;
 }
 #contact .icon {
 	width: 70px;
@@ -502,7 +502,7 @@ p {
 	margin-bottom: 20px;
 }
 #contact .col-right .cta {
-	color: #513252;
+	color: #6d385d;
 	margin-bottom: 50px;
 	padding: 10px 20px;
 	font-size: 2rem;
@@ -511,8 +511,8 @@ p {
 
 /* Footer */
 #footer {
-	background: linear-gradient(60deg,#538234, #c4d7b9,#7A4069,#513252);
-	/*background: linear-gradient(60deg,#FFC18E,#7A4069,#513252);*/
+	background: linear-gradient(60deg,#538234, #c4d7b9,#98649a, #7A4069);
+	/*background: linear-gradient(60deg,#FFC18E,#98649a,#6d385d);*/
 	animation: gradient 15s ease infinite; 
 }
 #footer .footer {
