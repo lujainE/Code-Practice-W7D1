@@ -604,7 +604,7 @@ progress {
 }
 
 
-@media (max-width: 991px) {
+@media (max-width: 1199px) {
   .img-fluid {
     opacity: 0.2;
   }
@@ -11528,7 +11528,6 @@ footer.footer .social-link:hover {
 .portfolio-item .caption .caption-content h2, .portfolio-item .caption .caption-content .h2 {
   font-size: 0.8rem;
   text-transform: uppercase;
-  margin: 0.5rem 0.5rem;
 }
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
