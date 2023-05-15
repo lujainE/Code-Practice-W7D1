@@ -604,34 +604,12 @@ progress {
 }
 
 
-@media (min-width: 576px) {
+@media (max-width: 991px) {
   .img-fluid {
     opacity: 0.2;
   }
   .portfolio-item, .caption{
   background-color: rgba(25, 135, 84, 0.25);}
-}
-@media (min-width: 768px) {
-  .img-fluid {
-    opacity: 0.2;
-  }
-  .portfolio-item, .caption{
-    background-color: rgba(25, 135, 84, 0.25);}
-}
-@media (min-width: 992px) {
-   .img-fluid {
-    opacity: 0.5;
-  }
-}
-@media (min-width: 1200px) {
-   .img-fluid {
-    opacity: 0.5;
-  }
-}
-@media (min-width: 1400px) {
-   .img-fluid {
-    opacity: 0.5;
-  }
 }
 
 .img-thumbnail {
@@ -11550,7 +11528,7 @@ footer.footer .social-link:hover {
 .portfolio-item .caption .caption-content h2, .portfolio-item .caption .caption-content .h2 {
   font-size: 0.8rem;
   text-transform: uppercase;
-  margin: 1rem 1rem;
+  margin: 0.5rem 0.5rem;
 }
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
