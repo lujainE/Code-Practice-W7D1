@@ -11528,7 +11528,7 @@ footer.footer .social-link:hover {
 .portfolio-item .caption .caption-content h2, .portfolio-item .caption .caption-content .h2 {
   font-size: 0.8rem;
   text-transform: uppercase;
-  margin:  1rem 0rem 0.5rem 0rem;
+  margin:  0.5rem 0rem 0.5rem 0rem;
 }
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
